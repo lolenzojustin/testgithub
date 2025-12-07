@@ -7,4 +7,5 @@ const root = createRoot(document.getElementById('root'))
 const a = "Test"
 const b = 1
 const c = "Testc"
+const d = "Testd"
 root.render(<App />)
