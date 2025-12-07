@@ -6,5 +6,5 @@ import App from './App'
 const root = createRoot(document.getElementById('root'))
 const a = "Test"
 const b = 1
-const c = "Test2"
+
 root.render(<App />)
